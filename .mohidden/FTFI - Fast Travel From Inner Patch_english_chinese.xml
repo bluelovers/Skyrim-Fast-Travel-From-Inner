@@ -1,0 +1,2554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>FTFI - Fast Travel From Inner Patch</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Bthardamz Lower District</Source>
+      <Dest>巴伐丹茲下層區 (Bthardamz Lower District)</Dest>
+    </String>
+    <String List="0">
+      <Source>Leigelf's House</Source>
+      <Dest>雷蓋爾夫的房子 (Leigelf's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Potema's Refuge</Source>
+      <Dest>波特瑪避難所 (Potema's Refuge)</Dest>
+    </String>
+    <String List="0">
+      <Source>Riften Warehouse</Source>
+      <Dest>裂谷城倉庫 (Riften Warehouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Amren's House</Source>
+      <Dest>阿穆倫的房子 (Amren's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>High Hrothgar</Source>
+      <Dest>高吼修道院 (High Hrothgar)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Crafting</Source>
+      <Dest>工藝倉庫 (Warehouse Crafting)</Dest>
+    </String>
+    <String List="0">
+      <Source>Derelict Pumphouse</Source>
+      <Dest>廢棄泵房 (Derelict Pumphouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Skaggi's House</Source>
+      <Dest>斯卡基的房子 (Skaggi's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dustman's Cairn</Source>
+      <Dest>清道夫石塚 (Dustman's Cairn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Greymoor</Source>
+      <Dest>灰色荒原堡壘 (Fort Greymoor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Castle Dour, Emperor's Tower</Source>
+      <Dest>陰鬱堡 (Castle Dour, Emperor's Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Neugrad</Source>
+      <Dest>新邑堡壘 (Fort Neugrad)</Dest>
+    </String>
+    <String List="0">
+      <Source>Jarl's Longhouse</Source>
+      <Dest>領主的長屋 (Jarl's Longhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Farm Overseer's House</Source>
+      <Dest>農地領班的房子 (Farm Overseer's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sky Haven Temple</Source>
+      <Dest>天佑寺 (Sky Haven Temple)</Dest>
+    </String>
+    <String List="0">
+      <Source>Redbelly Mine</Source>
+      <Dest>紅腹礦場 (Redbelly Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Chillwind Depths</Source>
+      <Dest>霜風深穴 (Chillwind Depths)</Dest>
+    </String>
+    <String List="0">
+      <Source>High Gate Ruins Catacombs</Source>
+      <Dest>高門遺址地下墓穴 (High Gate Ruins Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Harmugstahl</Source>
+      <Dest>漢蒙斯托爾 (Harmugstahl)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Ratway</Source>
+      <Dest>鼠道 (The Ratway)</Dest>
+    </String>
+    <String List="0">
+      <Source>Largashbur Cellar</Source>
+      <Dest>拉加施布爾地下室 (Largashbur Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cowflop Farmhouse</Source>
+      <Dest>牛蹄農舍 (Cowflop Farmhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Steamscorch Mine</Source>
+      <Dest>汽灼礦場 (Steamscorch Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Faendal's House</Source>
+      <Dest>法恩達爾的房子 (Faendal's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Movarth's Lair</Source>
+      <Dest>莫瓦斯的巢穴 (Movarth's Lair)</Dest>
+    </String>
+    <String List="0">
+      <Source>Yngvild Throne Room</Source>
+      <Dest>鷹維爾德王座室 (Yngvild Throne Room)</Dest>
+    </String>
+    <String List="0">
+      <Source>Wolfskull Ruins</Source>
+      <Dest>狼顱遺跡 (Wolfskull Ruins)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Sungard Shrine</Source>
+      <Dest>森加德堡壘聖壇 (Fort Sungard Shrine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Neugrad Prison</Source>
+      <Dest>新邑堡壘監獄 (Fort Neugrad Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Sungard Annex</Source>
+      <Dest>森加德堡壘角樓 (Fort Sungard Annex)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Warrens</Source>
+      <Dest>貧民窟 (The Warrens)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Furniture</Source>
+      <Dest>倉庫傢俱 (Warehouse Furniture)</Dest>
+    </String>
+    <String List="0">
+      <Source>Brood Cavern</Source>
+      <Dest>育雛洞窟 (Brood Cavern)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hrodulf's House</Source>
+      <Dest>賀多夫的地下室 (Hrodulf's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hag's End</Source>
+      <Dest>鬼婆樂土 (Hag's End)</Dest>
+    </String>
+    <String List="0">
+      <Source>Katla's Farm</Source>
+      <Dest>凱特拉的農場 (Katla's Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Angeline's Aromatics</Source>
+      <Dest>安吉靈的芳香 (Angeline's Aromatics)</Dest>
+    </String>
+    <String List="0">
+      <Source>Snow Veil Sanctum</Source>
+      <Dest>雪幔聖所 (Snow Veil Sanctum)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shroud Hearth Barrow</Source>
+      <Dest>覆爐古墳 (Shroud Hearth Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hlaalu Farm</Source>
+      <Dest>赫拉魯農場 (Hlaalu Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Windpeak Inn</Source>
+      <Dest>風岳旅店 (Windpeak Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Calcelmo's Laboratory</Source>
+      <Dest>卡塞莫的研究室 (Calcelmo's Laboratory)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchuand-Zel Armory</Source>
+      <Dest>努楚安澤爾軍械區 (Nchuand-Zel Armory)</Dest>
+    </String>
+    <String List="0">
+      <Source>Azura's Star Interior</Source>
+      <Dest>阿祖拉之星內部 (Azura's Star Interior)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of the Elements</Source>
+      <Dest>元素大廳 (Hall of the Elements)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cellar</Source>
+      <Dest>地下室 (Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Castle Dour</Source>
+      <Dest>陰鬱堡 (Castle Dour)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzinchaleft Gatehouse</Source>
+      <Dest>姆津查夫特門衛室 (Mzinchaleft Gatehouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Knifepoint Mine</Source>
+      <Dest>刀尖礦場 (Knifepoint Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Main Menu Cell</Source>
+      <Dest>Main Menu Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>Arcadia's Cauldron</Source>
+      <Dest>阿爾凱迪婭之釜 (Arcadia's Cauldron)</Dest>
+    </String>
+    <String List="0">
+      <Source>Misty Grove</Source>
+      <Dest>朦朧林園 (Misty Grove)</Dest>
+    </String>
+    <String List="0">
+      <Source>Half-Moon Mill</Source>
+      <Dest>半月鋸木廠 (Half-Moon Mill)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pinepeak Cavern</Source>
+      <Dest>松木峰洞穴 (Pinepeak Cavern)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Tree Cave</Source>
+      <Dest>沉睡之樹洞穴 (Sleeping Tree Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor, Cellar</Source>
+      <Dest>風臨館地下室 (Windstad Manor, Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Saarthal Excavation</Source>
+      <Dest>薩瑟爾城洞穴 (Saarthal Excavation)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shaman's Hut</Source>
+      <Dest>薩滿的房子 (Shaman's Hut)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzulft Boilery</Source>
+      <Dest>姆奏夫特蒸氣管線區 (Mzulft Boilery)</Dest>
+    </String>
+    <String List="0">
+      <Source>Japhet's Folly Towers</Source>
+      <Dest>傑斐的徒勞之屋塔樓 (Japhet's Folly Towers)</Dest>
+    </String>
+    <String List="0">
+      <Source>Rannveig's Fast</Source>
+      <Dest>議戰壁壘廢墟 (Rannveig's Fast)</Dest>
+    </String>
+    <String List="0">
+      <Source>Odfel's House</Source>
+      <Dest>奧德菲爾的房子 (Odfel's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bilegulch Mine</Source>
+      <Dest>膽汁峽谷礦場 (Bilegulch Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Katariah</Source>
+      <Dest>卡塔莉雅號 (The Katariah)</Dest>
+    </String>
+    <String List="0">
+      <Source>Harstrad Cave</Source>
+      <Dest>赫斯惴洞穴 (Harstrad Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Driftshade Cellar</Source>
+      <Dest>漂移暗影地下室 (Driftshade Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostmere Crypt</Source>
+      <Dest>寒沼墓穴 (Frostmere Crypt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor, Cellar</Source>
+      <Dest>湖景林居地下室 (Lakeview Manor, Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Miner's Barracks</Source>
+      <Dest>礦工宿舍 (Miner's Barracks)</Dest>
+    </String>
+    <String List="0">
+      <Source>Jorrvaskr</Source>
+      <Dest>勇者之家 (Jorrvaskr)</Dest>
+    </String>
+    <String List="0">
+      <Source>Rimerock Burrow</Source>
+      <Dest>霧淞岩地洞 (Rimerock Burrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Goldenglow Estate Sewer</Source>
+      <Dest>金色光輝莊園下水道 (Goldenglow Estate Sewer)</Dest>
+    </String>
+    <String List="0">
+      <Source>Tel Mithryn Kitchen</Source>
+      <Dest>泰爾密希臨廚房 (Tel Mithryn Kitchen)</Dest>
+    </String>
+    <String List="0">
+      <Source>Avanchnzel</Source>
+      <Dest>阿旺晨澤爾 (Avanchnzel)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fenn's Gulch Mine</Source>
+      <Dest>芬恩的地溝礦場 (Fenn's Gulch Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Redoran's Retreat</Source>
+      <Dest>瑞多然的隱蔽處 (Redoran's Retreat)</Dest>
+    </String>
+    <String List="0">
+      <Source>Falkreath Barracks</Source>
+      <Dest>佛克瑞斯營地 (Falkreath Barracks)</Dest>
+    </String>
+    <String List="0">
+      <Source>Left Hand Mine</Source>
+      <Dest>左手礦場 (Left Hand Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Verner and Annekke's House</Source>
+      <Dest>維爾納和安妮琦的房子 (Verner and Annekke's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Stumbling Sabrecat</Source>
+      <Dest>蹣跚的劍齒虎 (The Stumbling Sabrecat)</Dest>
+    </String>
+    <String List="0">
+      <Source>Windhelm Barracks</Source>
+      <Dest>風舵城營地 (Windhelm Barracks)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Midden Dark</Source>
+      <Dest>廢棄物運送通路深處 (The Midden Dark)</Dest>
+    </String>
+    <String List="0">
+      <Source>Uthgerd's House</Source>
+      <Dest>阿思蓋德的房子 (Uthgerd's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>TestTony</Source>
+      <Dest>TestTony</Dest>
+    </String>
+    <String List="0">
+      <Source>Darklight Chambers</Source>
+      <Dest>黑光廳 (Darklight Chambers)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistveil Keep Jarl's Chambers</Source>
+      <Dest>霧隱塔樓領主堂 (Mistveil Keep Jarl's Chambers)</Dest>
+    </String>
+    <String List="0">
+      <Source>Brandy-Mug Farm</Source>
+      <Dest>燒酒杯農場 (Brandy-Mug Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Jorrvaskr Living Quarters</Source>
+      <Dest>勇者之家居住區 (Jorrvaskr Living Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Dunstad</Source>
+      <Dest>丹斯塔德堡壘 (Fort Dunstad)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Drunken Huntsman</Source>
+      <Dest>酩酊獵手 (The Drunken Huntsman)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pelagia Farm</Source>
+      <Dest>佩拉吉烏斯農場 (Pelagia Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Broken Tower Redoubt</Source>
+      <Dest>破碎塔據點 (Broken Tower Redoubt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Crystaldrift Cave</Source>
+      <Dest>水晶飄移洞穴 (Crystaldrift Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Romlyn Dreth's House</Source>
+      <Dest>洛姆林‧德萊瑟的房子 (Romlyn Dreth's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mara's Eye Den</Source>
+      <Dest>瑪拉之眼巢穴 (Mara's Eye Den)</Dest>
+    </String>
+    <String List="0">
+      <Source>Guard Tower</Source>
+      <Dest>衛兵哨塔 (Guard Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Sawmill</Source>
+      <Dest>獨孤城鋸木廠 (Solitude Sawmill)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lost Echo Cave</Source>
+      <Dest>迷失迴聲洞穴 (Lost Echo Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Benkongerike</Source>
+      <Dest>骨頭國度 (Benkongerike)</Dest>
+    </String>
+    <String List="0">
+      <Source>Atheron Residence</Source>
+      <Dest>亞瑟榮宅 (Atheron Residence)</Dest>
+    </String>
+    <String List="0">
+      <Source>Burguk's Longhouse</Source>
+      <Dest>博古克的長屋 (Burguk's Longhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Wolfskull Cave</Source>
+      <Dest>狼顱洞穴 (Wolfskull Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Beggar's Row</Source>
+      <Dest>乞丐的隔間 (Beggar's Row)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Robbers' Cove</Source>
+      <Dest>強盜峽谷 (Robbers' Cove)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragonsreach Jarl's Quarters</Source>
+      <Dest>龍臨殿領主居住區 (Dragonsreach Jarl's Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Corpselight Farm</Source>
+      <Dest>屍光農場 (Corpselight Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Frossel</Source>
+      <Dest>佛塞爾 (Frossel)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Fellhammer Garrison</Source>
+      <Dest>鑄錘據點 (Fort Fellhammer Garrison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Highmoon Hall</Source>
+      <Dest>懸月大廳 (Highmoon Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bthardamz Arcanex</Source>
+      <Dest>巴伐丹茲奧識研究區 (Bthardamz Arcanex)</Dest>
+    </String>
+    <String List="0">
+      <Source>Damphall Mine</Source>
+      <Dest>潮廳礦場 (Damphall Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragonsreach Dungeon</Source>
+      <Dest>龍臨殿地牢 (Dragonsreach Dungeon)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistwatch West Tower</Source>
+      <Dest>迷霧塔樓西塔 (Mistwatch West Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Liar's Retreat</Source>
+      <Dest>騙徒藏匿處 (Liar's Retreat)</Dest>
+    </String>
+    <String List="0">
+      <Source>Stillborn Cave</Source>
+      <Dest>死產洞穴 (Stillborn Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Morvayn Manor</Source>
+      <Dest>莫爾凡宅邸 (Morvayn Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnstar Sanctuary</Source>
+      <Dest>晨星會所 (Dawnstar Sanctuary)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzulft</Source>
+      <Dest>姆奏夫特 (Mzulft)</Dest>
+    </String>
+    <String List="0">
+      <Source>Vlindrel Hall</Source>
+      <Dest>林德爾會堂 (Vlindrel Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Boulderfall Cave</Source>
+      <Dest>落石洞穴 (Boulderfall Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Jala's House</Source>
+      <Dest>加拉的房子 (Jala's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shriekwind Bastion</Source>
+      <Dest>嘯風棱堡 (Shriekwind Bastion)</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor Embassy</Source>
+      <Dest>梭默大使館 (Thalmor Embassy)</Dest>
+    </String>
+    <String List="0">
+      <Source>Salvius Farmhouse</Source>
+      <Dest>薩爾烏斯農舍 (Salvius Farmhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Aerin's House</Source>
+      <Dest>艾靈的房子 (Aerin's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Tolvald's Crossing</Source>
+      <Dest>托沃德地下河通路 (Tolvald's Crossing)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pavo's House</Source>
+      <Dest>帕沃的房子 (Pavo's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Old Hroldan Inn</Source>
+      <Dest>古赫洛登旅店 (Old Hroldan Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Vittoria Vici's House</Source>
+      <Dest>維多利亞‧薇齊的房子 (Vittoria Vici's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Ragged Flagon</Source>
+      <Dest>漏壺 (The Ragged Flagon)</Dest>
+    </String>
+    <String List="0">
+      <Source>Irkngthand Sanctuary</Source>
+      <Dest>厄肯薩德聖像堂 (Irkngthand Sanctuary)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shimmermist Cave</Source>
+      <Dest>光霧洞穴 (Shimmermist Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Irkngthand Grand Cavern</Source>
+      <Dest>厄肯薩德巨型空洞區 (Irkngthand Grand Cavern)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchuand-Zel Excavation Site</Source>
+      <Dest>努楚安澤爾挖掘現場 (Nchuand-Zel Excavation Site)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ilinalta's Deluge</Source>
+      <Dest>伊琳娜塔要塞浸水區 (Ilinalta's Deluge)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ilinalta's Deep</Source>
+      <Dest>淹沒的伊琳娜塔要塞 (Ilinalta's Deep)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Kastav Prison</Source>
+      <Dest>洗禮要塞監獄 (Fort Kastav Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Forelhost Refectory</Source>
+      <Dest>佛若豪斯餐廳 (Forelhost Refectory)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Traps</Source>
+      <Dest>倉庫陷阱 (Warehouse Traps)</Dest>
+    </String>
+    <String List="0">
+      <Source>Thirsk Mead Hall</Source>
+      <Dest>瑟斯科蜜酒大廳 (Thirsk Mead Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchuand-Zel</Source>
+      <Dest>努楚安澤爾 (Nchuand-Zel)</Dest>
+    </String>
+    <String List="0">
+      <Source>Alftand Glacial Ruins</Source>
+      <Dest>奧夫坦德冰川遺跡 (Alftand Glacial Ruins)</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Catacombs</Source>
+      <Dest>獨孤城地下墓穴 (Solitude Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Brinehammer Below Deck</Source>
+      <Dest>海錘號下層甲板 (The Brinehammer Below Deck)</Dest>
+    </String>
+    <String List="0">
+      <Source>Kolskeggr Mine</Source>
+      <Dest>科斯凱格礦場 (Kolskeggr Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzulft Aedrome</Source>
+      <Dest>姆奏夫特大試驗廳 (Mzulft Aedrome)</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver-Blood Inn</Source>
+      <Dest>銀血旅店 (Silver-Blood Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Volunruud Elder's Cairn</Source>
+      <Dest>沃倫魯德石塚 (Volunruud Elder's Cairn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cold Rock Pass</Source>
+      <Dest>寒石關 (Cold Rock Pass)</Dest>
+    </String>
+    <String List="0">
+      <Source>Darkshade</Source>
+      <Dest>黑影 (Darkshade)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Hag's Cure</Source>
+      <Dest>鬼婆藥劑 (The Hag's Cure)</Dest>
+    </String>
+    <String List="0">
+      <Source>Kilkreath Ruins</Source>
+      <Dest>基爾克瑞斯遺址 (Kilkreath Ruins)</Dest>
+    </String>
+    <String List="0">
+      <Source>Radiant Raiment</Source>
+      <Dest>錦衣服飾店 (Radiant Raiment)</Dest>
+    </String>
+    <String List="0">
+      <Source>Vokun's Throne Room</Source>
+      <Dest>沃坤王座室 (Vokun's Throne Room)</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Blacksmith</Source>
+      <Dest>獨孤城鍛匠鋪 (Solitude Blacksmith)</Dest>
+    </String>
+    <String List="0">
+      <Source>Avanchnzel Animoncultory</Source>
+      <Dest>阿旺晨澤爾機人製造區 (Avanchnzel Animoncultory)</Dest>
+    </String>
+    <String List="0">
+      <Source>Morvayn Ancestral Tomb</Source>
+      <Dest>莫爾凡祖墳 (Morvayn Ancestral Tomb)</Dest>
+    </String>
+    <String List="0">
+      <Source>Driftshade Refuge</Source>
+      <Dest>漂移暗影庇護所 (Driftshade Refuge)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead Men's Respite</Source>
+      <Dest>亡者之棲 (Dead Men's Respite)</Dest>
+    </String>
+    <String List="0">
+      <Source>Niranye's Basement</Source>
+      <Dest>妮蘭雅的地下室 (Niranye's Basement)</Dest>
+    </String>
+    <String List="0">
+      <Source>Haelga's Bunkhouse</Source>
+      <Dest>哈爾嘉工棚 (Haelga's Bunkhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Swindler's Den</Source>
+      <Dest>騙子老巢 (Swindler's Den)</Dest>
+    </String>
+    <String List="0">
+      <Source>Alva's Cellar</Source>
+      <Dest>阿爾瓦的地窖 (Alva's Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Scorched Hammer</Source>
+      <Dest>滾燙鍛錘 (The Scorched Hammer)</Dest>
+    </String>
+    <String List="0">
+      <Source>Forsaken Crypt</Source>
+      <Dest>遺棄地穴 (Forsaken Crypt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple Ancestral Tomb</Source>
+      <Dest>神殿祖墳 (Temple Ancestral Tomb)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Snowhawk Prison</Source>
+      <Dest>雪鷹堡壘監獄 (Fort Snowhawk Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple of Dibella</Source>
+      <Dest>迪貝拉神殿 (Temple of Dibella)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sarethi Farm</Source>
+      <Dest>薩雷提農場 (Sarethi Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Kagrenzel</Source>
+      <Dest>卡格雷澤爾 (Kagrenzel)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fahlbtharz Boilery</Source>
+      <Dest>法巴伐茲蒸氣管線區 (Fahlbtharz Boilery)</Dest>
+    </String>
+    <String List="0">
+      <Source>Kagrumez</Source>
+      <Dest>庫谷梅茲 (Kagrumez)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Bulwark Jail</Source>
+      <Dest>布瓦克堡壘監獄 (The Bulwark Jail)</Dest>
+    </String>
+    <String List="0">
+      <Source>Volkihar Keep</Source>
+      <Dest>沃奇哈堡 (Volkihar Keep)</Dest>
+    </String>
+    <String List="0">
+      <Source>Helgen Homestead</Source>
+      <Dest>聖地鎮莊園 (Helgen Homestead)</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple of Talos</Source>
+      <Dest>塔洛斯神殿 (Temple of Talos)</Dest>
+    </String>
+    <String List="0">
+      <Source>Treva's Watch</Source>
+      <Dest>翠瓦哨塔 (Treva's Watch)</Dest>
+    </String>
+    <String List="0">
+      <Source>Valthume Catacombs</Source>
+      <Dest>瓦爾圖梅地下墓室 (Valthume Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pawned Prawn</Source>
+      <Dest>典當小蝦 (Pawned Prawn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Korvanjund Temple</Source>
+      <Dest>科萬瓊德神殿 (Korvanjund Temple)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pelagius Wing</Source>
+      <Dest>佩拉吉烏斯側廳 (Pelagius Wing)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Giant Inn</Source>
+      <Dest>沉睡巨人旅店 (Sleeping Giant Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Elgrim's Elixirs</Source>
+      <Dest>艾爾格瑞姆的神藥 (Elgrim's Elixirs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Falkreath Jail</Source>
+      <Dest>佛克瑞斯監獄 (Falkreath Jail)</Dest>
+    </String>
+    <String List="0">
+      <Source>Thaumaturgist's Hut</Source>
+      <Dest>調劑師的小屋 (Thaumaturgist's Hut)</Dest>
+    </String>
+    <String List="0">
+      <Source>Volskygge</Source>
+      <Dest>戰爭暗影 (Volskygge)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sinderion's Field Laboratory</Source>
+      <Dest>辛德萊昂的實地探察研究室 (Sinderion's Field Laboratory)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bloodskal Barrow</Source>
+      <Dest>血飲石塚 (Bloodskal Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hod and Gerdur's House</Source>
+      <Dest>胡德和歌爾朵的房子 (Hod and Gerdur's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Assemblage</Source>
+      <Dest>阿爾貢人聚居區 (Argonian Assemblage)</Dest>
+    </String>
+    <String List="0">
+      <Source>Reeking Tower</Source>
+      <Dest>惡臭塔 (Reeking Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Blacksmith Quarters</Source>
+      <Dest>鍛匠居住區 (Blacksmith Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple</Source>
+      <Dest>神殿 (Temple)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Temple of Miraak Sanctum</Source>
+      <Dest>米拉克神殿聖所 (Temple of Miraak Sanctum)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fellglow Keep Dungeons</Source>
+      <Dest>光落要塞地牢 (Fellglow Keep Dungeons)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of the Dead</Source>
+      <Dest>亡者之廳 (Hall of the Dead)</Dest>
+    </String>
+    <String List="0">
+      <Source>Calixto's House of Curiosities</Source>
+      <Dest>卡利斯托的珍品屋 (Calixto's House of Curiosities)</Dest>
+    </String>
+    <String List="0">
+      <Source>Alftand Ruined Tower</Source>
+      <Dest>奧夫坦德遺跡塔 (Alftand Ruined Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Potema's Sanctum</Source>
+      <Dest>波特瑪密室 (Potema's Sanctum)</Dest>
+    </String>
+    <String List="0">
+      <Source>Forsaken Cave</Source>
+      <Dest>遺棄洞穴 (Forsaken Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Heartwood Mill</Source>
+      <Dest>心木鋸木廠 (Heartwood Mill)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shrouded Grove Cave</Source>
+      <Dest>隱秘森林洞穴 (Shrouded Grove Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Raven Rock Holding Cell</Source>
+      <Dest>烏石鎮牢房 (Raven Rock Holding Cell)</Dest>
+    </String>
+    <String List="0">
+      <Source>Northwatch Keep</Source>
+      <Dest>北塔要塞 (Northwatch Keep)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fellglow Keep Ritual Chamber</Source>
+      <Dest>光落要塞儀式廳 (Fellglow Keep Ritual Chamber)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Amol</Source>
+      <Dest>龍舌蘭要塞 (Fort Amol)</Dest>
+    </String>
+    <String List="0">
+      <Source>Clearspring Cave</Source>
+      <Dest>清春洞穴 (Clearspring Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>House of Clan Shatter-Shield</Source>
+      <Dest>碎盾氏族的房子 (House of Clan Shatter-Shield)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dengeir's House</Source>
+      <Dest>丹格爾的房子 (Dengeir's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Chillfurrow Farm</Source>
+      <Dest>寒犁農場 (Chillfurrow Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Forelhost Stronghold</Source>
+      <Dest>佛若豪斯要塞 (Forelhost Stronghold)</Dest>
+    </String>
+    <String List="0">
+      <Source>Viola Giordano's House</Source>
+      <Dest>維歐拉‧喬爾丹諾的房子 (Viola Giordano's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Strange Vessel</Source>
+      <Dest>古怪容器 (Strange Vessel)</Dest>
+    </String>
+    <String List="0">
+      <Source>Deor Woodcutter's House</Source>
+      <Dest>奪爾‧伐木的房子 (Deor Woodcutter's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Debate Hall</Source>
+      <Dest>辯論大廳 (Debate Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>holding cell</Source>
+      <Dest>固定牢房 (holding cell)</Dest>
+    </String>
+    <String List="0">
+      <Source>Coldcinder Cave</Source>
+      <Dest>冷渣洞穴 (Coldcinder Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistveil Keep Barracks</Source>
+      <Dest>霧隱塔樓營房 (Mistveil Keep Barracks)</Dest>
+    </String>
+    <String List="0">
+      <Source>Purewater Run</Source>
+      <Dest>純水奔流 (Purewater Run)</Dest>
+    </String>
+    <String List="0">
+      <Source>Broken Oar Grotto</Source>
+      <Dest>斷槳洞窟 (Broken Oar Grotto)</Dest>
+    </String>
+    <String List="0">
+      <Source>Drelas' Cottage</Source>
+      <Dest>德雷拉斯的房屋 (Drelas' Cottage)</Dest>
+    </String>
+    <String List="0">
+      <Source>Alva's House</Source>
+      <Dest>阿爾瓦的房子 (Alva's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Dunstad Commander's Quarters</Source>
+      <Dest>丹斯塔德堡壘指揮官居住區 (Fort Dunstad Commander's Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ironbind Barrow</Source>
+      <Dest>鐵岩石塚 (Ironbind Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>East Empire Company</Source>
+      <Dest>東帝國貿易公司 (East Empire Company)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead Man's Drink</Source>
+      <Dest>亡者之飲 (Dead Man's Drink)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Greymoor Prison</Source>
+      <Dest>灰色荒原堡壘監獄 (Fort Greymoor Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lund's Hut</Source>
+      <Dest>倫德的小屋 (Lund's Hut)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ashfallow Citadel</Source>
+      <Dest>燼休堡壘 (Ashfallow Citadel)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzinchaleft</Source>
+      <Dest>姆津查夫特 (Mzinchaleft)</Dest>
+    </String>
+    <String List="0">
+      <Source>Gloombound Mine</Source>
+      <Dest>昏暗邊界礦場 (Gloombound Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Honorhall Orphanage</Source>
+      <Dest>榮耀堂孤兒院 (Honorhall Orphanage)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lost Knife Hideout</Source>
+      <Dest>失落匕首據點 (Lost Knife Hideout)</Dest>
+    </String>
+    <String List="0">
+      <Source>Karthwasten Hall</Source>
+      <Dest>西卡斯鎮大廳 (Karthwasten Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead Crone Rock</Source>
+      <Dest>亡孺岩石 (Dead Crone Rock)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnstar Jail</Source>
+      <Dest>晨星城監獄 (Dawnstar Jail)</Dest>
+    </String>
+    <String List="0">
+      <Source>Iron-Breaker Mine</Source>
+      <Dest>碎鐵者礦場 (Iron-Breaker Mine)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Ambushes</Source>
+      <Dest>倉庫伏兵 (Warehouse Ambushes)</Dest>
+    </String>
+    <String List="0">
+      <Source>Guldun Rock Cave</Source>
+      <Dest>古爾頓岩洞穴 (Guldun Rock Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Snapleg Cave</Source>
+      <Dest>斷腿洞穴 (Snapleg Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned Lodge</Source>
+      <Dest>廢棄小屋 (Abandoned Lodge)</Dest>
+    </String>
+    <String List="0">
+      <Source>Gyldenhul Barrow</Source>
+      <Dest>祭爾旦禾古墳 (Gyldenhul Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Froki's Shack</Source>
+      <Dest>弗洛基的小屋 (Froki's Shack)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cidhna Mine</Source>
+      <Dest>希訥礦場 (Cidhna Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Honningbrew Boilery</Source>
+      <Dest>蜜之釀酒莊沸室 (Honningbrew Boilery)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorli's House</Source>
+      <Dest>索莉的房子 (Sorli's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Arnleif and Sons Trading Company</Source>
+      <Dest>阿雷夫父子商行 (Arnleif and Sons Trading Company)</Dest>
+    </String>
+    <String List="0">
+      <Source>Rockwallow Mine</Source>
+      <Dest>滾石礦場 (Rockwallow Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cracked Tusk Vaults</Source>
+      <Dest>裂牙儲藏室 (Cracked Tusk Vaults)</Dest>
+    </String>
+    <String List="0">
+      <Source>Candlehearth Hall</Source>
+      <Dest>燭爐堂旅店 (Candlehearth Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Tower of Mzark</Source>
+      <Dest>姆紮克之塔 (Tower of Mzark)</Dest>
+    </String>
+    <String List="0">
+      <Source>Addvar's House</Source>
+      <Dest>艾達瓦的房子 (Addvar's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Kastav Captain's Quarters</Source>
+      <Dest>洗禮要塞隊長居住區 (Fort Kastav Captain's Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Smelter Overseer's House</Source>
+      <Dest>冶煉場工頭的房子 (Smelter Overseer's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bits and Pieces</Source>
+      <Dest>零珠碎玉 (Bits and Pieces)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bronze Water Cave</Source>
+      <Dest>銅水洞穴 (Bronze Water Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor Embassy, Barracks</Source>
+      <Dest>梭默大使館，營地 (Thalmor Embassy, Barracks)</Dest>
+    </String>
+    <String List="0">
+      <Source>Riften Jail</Source>
+      <Dest>裂谷城監獄 (Riften Jail)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of Attainment</Source>
+      <Dest>智識學舍 (Hall of Attainment)</Dest>
+    </String>
+    <String List="0">
+      <Source>Highpoint Tower</Source>
+      <Dest>制高塔 (Highpoint Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cragwallow Slope</Source>
+      <Dest>克雷格沃羅坡地 (Cragwallow Slope)</Dest>
+    </String>
+    <String List="0">
+      <Source>Edla's House</Source>
+      <Dest>艾蒂拉的房子 (Edla's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Snow-Shod Manor</Source>
+      <Dest>雪蹄別墅 (Snow-Shod Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Alftand Animonculory</Source>
+      <Dest>奧夫坦德機人製造區 (Alftand Animonculory)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchardak Aqueduct</Source>
+      <Dest>努查達克水路控制區 (Nchardak Aqueduct)</Dest>
+    </String>
+    <String List="0">
+      <Source>Silent Ruin</Source>
+      <Dest>寂靜遺址 (Silent Ruin)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Greenwall</Source>
+      <Dest>青垣要塞 (Fort Greenwall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Severio Pelagia's House</Source>
+      <Dest>塞維利奧‧佩拉吉烏斯的房子 (Severio Pelagia's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Inner Sanctum</Source>
+      <Dest>至聖所 (Inner Sanctum)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lemkil's Farmhouse</Source>
+      <Dest>萊姆吉爾的農舍 (Lemkil's Farmhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ysgramor's Tomb</Source>
+      <Dest>伊斯格拉謨墓穴 (Ysgramor's Tomb)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fletcher</Source>
+      <Dest>箭匠工房 (Fletcher)</Dest>
+    </String>
+    <String List="0">
+      <Source>Severin Manor</Source>
+      <Dest>瑟佛林宅邸 (Severin Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Twilight Sepulcher</Source>
+      <Dest>暮光靈廟 (Twilight Sepulcher)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shrine of Mehrunes Dagon</Source>
+      <Dest>梅魯涅斯‧大袞聖壇 (Shrine of Mehrunes Dagon)</Dest>
+    </String>
+    <String List="0">
+      <Source>Clan Shatter-Shield Office</Source>
+      <Dest>碎盾氏族文務室 (Clan Shatter-Shield Office)</Dest>
+    </String>
+    <String List="0">
+      <Source>Serpent's Bluff Ruins</Source>
+      <Dest>蛇石斷崖遺跡 (Serpent's Bluff Ruins)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bleak Falls Sanctum</Source>
+      <Dest>荒瀑密室 (Bleak Falls Sanctum)</Dest>
+    </String>
+    <String List="0">
+      <Source>Blue Palace</Source>
+      <Dest>藍宮 (Blue Palace)</Dest>
+    </String>
+    <String List="0">
+      <Source>Rorik's Manor</Source>
+      <Dest>洛利克莊園 (Rorik's Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwemer Museum</Source>
+      <Dest>鍛莫博物館 (Dwemer Museum)</Dest>
+    </String>
+    <String List="0">
+      <Source>Proudspire Manor</Source>
+      <Dest>豪塔別墅 (Proudspire Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall</Source>
+      <Dest>勇士塹山莊 (Heljarchen Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Black-Briar Meadery</Source>
+      <Dest>黑荊棘蜜酒莊 (Black-Briar Meadery)</Dest>
+    </String>
+    <String List="0">
+      <Source>Baldor Iron-Shaper's House</Source>
+      <Dest>霸鐸‧塑鐵的房子 (Baldor Iron-Shaper's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Goldenglow Estate Second Floor</Source>
+      <Dest>金色光輝莊園二樓 (Goldenglow Estate Second Floor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Daighre's House</Source>
+      <Dest>戴格利的房子 (Daighre's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sylgja's House</Source>
+      <Dest>喜兒雅的房子 (Sylgja's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>The White Hall</Source>
+      <Dest>白色會堂 (The White Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Skybound Watch Pass</Source>
+      <Dest>飛天哨塔過道 (Skybound Watch Pass)</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned Shack</Source>
+      <Dest>廢棄木屋 (Abandoned Shack)</Dest>
+    </String>
+    <String List="0">
+      <Source>Honeyside</Source>
+      <Dest>甜蜜灣 (Honeyside)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Underforge</Source>
+      <Dest>爐底密室 (The Underforge)</Dest>
+    </String>
+    <String List="0">
+      <Source>Treva's Watch Escape Tunnel</Source>
+      <Dest>翠瓦哨塔逃生隧道 (Treva's Watch Escape Tunnel)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Ratway Warrens</Source>
+      <Dest>鼠道陋巷 (The Ratway Warrens)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Sungard Muster</Source>
+      <Dest>森加德堡壘集結點 (Fort Sungard Muster)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistwatch North Tower</Source>
+      <Dest>迷霧塔樓北塔 (Mistwatch North Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Greywater Grotto</Source>
+      <Dest>灰水石窟 (Greywater Grotto)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchardak Reading Room</Source>
+      <Dest>努查達克閱讀室 (Nchardak Reading Room)</Dest>
+    </String>
+    <String List="0">
+      <Source>Magic Visuals Test Hall</Source>
+      <Dest>Magic Visuals Test Hall</Dest>
+    </String>
+    <String List="0">
+      <Source>Lost Prospect Mine</Source>
+      <Dest>絕望礦場 (Lost Prospect Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Angarvunde Ruins</Source>
+      <Dest>安枷墳遺址 (Angarvunde Ruins)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Amol Prison</Source>
+      <Dest>龍舌蘭要塞監獄 (Fort Amol Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Tel Mithryn Steward's House</Source>
+      <Dest>泰爾密希臨管家的房子 (Tel Mithryn Steward's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Alor House</Source>
+      <Dest>阿洛的房子 (Alor House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Marise Aravel's House</Source>
+      <Dest>馬利瑟‧阿雷弗的房子 (Marise Aravel's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Broken Fang Cave</Source>
+      <Dest>斷牙洞穴 (Broken Fang Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Niranye's House</Source>
+      <Dest>妮蘭雅的房子 (Niranye's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Ragged Flagon - Cistern</Source>
+      <Dest>漏壺－蓄水池 (The Ragged Flagon - Cistern)</Dest>
+    </String>
+    <String List="0">
+      <Source>Olava the Feeble's House</Source>
+      <Dest>虛弱的奧拉瓦的房子 (Olava the Feeble's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchardak Great Chamber</Source>
+      <Dest>努查達克正廳 (Nchardak Great Chamber)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Storeroom</Source>
+      <Dest>矮人儲藏室 (Dwarven Storeroom)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Hraggstad</Source>
+      <Dest>哈格斯塔德堡壘 (Fort Hraggstad)</Dest>
+    </String>
+    <String List="0">
+      <Source>Red Wave</Source>
+      <Dest>赤浪號 (Red Wave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistveil Keep</Source>
+      <Dest>霧隱塔樓 (Mistveil Keep)</Dest>
+    </String>
+    <String List="0">
+      <Source>Klimmek's House</Source>
+      <Dest>科林麥的房子 (Klimmek's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Palace of the Kings Upstairs</Source>
+      <Dest>眾王之殿上層 (Palace of the Kings Upstairs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of the Vigilant</Source>
+      <Dest>警戒者會堂 (Hall of the Vigilant)</Dest>
+    </String>
+    <String List="0">
+      <Source>Azura Voice Cell</Source>
+      <Dest>Azura Voice Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnvald Canal</Source>
+      <Dest>拉根沃德運河 (Ragnvald Canal)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchardak Workshop</Source>
+      <Dest>努查達克工坊區 (Nchardak Workshop)</Dest>
+    </String>
+    <String List="0">
+      <Source>Brina's House</Source>
+      <Dest>布理娜的房子 (Brina's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dark Brotherhood Sanctuary</Source>
+      <Dest>黑暗兄弟會所 (Dark Brotherhood Sanctuary)</Dest>
+    </String>
+    <String List="0">
+      <Source>Oslaf's House</Source>
+      <Dest>歐司拉夫的房子 (Oslaf's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cracked Tusk Keep</Source>
+      <Dest>裂牙要塞 (Cracked Tusk Keep)</Dest>
+    </String>
+    <String List="0">
+      <Source>Honningbrew Basement</Source>
+      <Dest>蜜之釀酒莊地下室 (Honningbrew Basement)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pinewatch Bandit's Sanctuary</Source>
+      <Dest>松木哨站強盜藏身處 (Pinewatch Bandit's Sanctuary)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sewer</Source>
+      <Dest>下水道 (Sewer)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dainty Sload</Source>
+      <Dest>優雅蛞蟾人號 (Dainty Sload)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fruki's House</Source>
+      <Dest>弗茹基的房子 (Fruki's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Korvanjund Crypt</Source>
+      <Dest>科萬瓊德地穴 (Korvanjund Crypt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bloodlet Throne</Source>
+      <Dest>釋血王座 (Bloodlet Throne)</Dest>
+    </String>
+    <String List="0">
+      <Source>Irkngthand Slave Pens</Source>
+      <Dest>厄肯薩德奴隸圈禁區 (Irkngthand Slave Pens)</Dest>
+    </String>
+    <String List="0">
+      <Source>Moorside Inn</Source>
+      <Dest>塢邊旅店 (Moorside Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Windhelm Stables</Source>
+      <Dest>風舵城馬廄 (Windhelm Stables)</Dest>
+    </String>
+    <String List="0">
+      <Source>Riftweald Manor</Source>
+      <Dest>森谷莊園 (Riftweald Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Bannered Mare</Source>
+      <Dest>敕旗母馬旅店 (The Bannered Mare)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of Rumination</Source>
+      <Dest>沉思大廳 (Hall of Rumination)</Dest>
+    </String>
+    <String List="0">
+      <Source>Penitus Oculatus Outpost</Source>
+      <Dest>內察使前哨站 (Penitus Oculatus Outpost)</Dest>
+    </String>
+    <String List="0">
+      <Source>Skuldafn Temple</Source>
+      <Dest>斯庫達芬神殿 (Skuldafn Temple)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistwatch East Tower</Source>
+      <Dest>迷霧塔樓東塔 (Mistwatch East Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cronvangr Broodlair</Source>
+      <Dest>克隆萬格巢穴 (Cronvangr Broodlair)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fellglow Keep</Source>
+      <Dest>光落要塞 (Fellglow Keep)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dremora Holding Cell</Source>
+      <Dest>魔人牢房 (Dremora Holding Cell)</Dest>
+    </String>
+    <String List="0">
+      <Source>Worker's House</Source>
+      <Dest>工人的住所 (Worker's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ulen Ancestral Tomb</Source>
+      <Dest>烏倫祖墳 (Ulen Ancestral Tomb)</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned Cave</Source>
+      <Dest>廢棄洞穴 (Abandoned Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Soljund's Sinkhole</Source>
+      <Dest>索雲德沉洞礦場 (Soljund's Sinkhole)</Dest>
+    </String>
+    <String List="0">
+      <Source>Guard Barracks</Source>
+      <Dest>衛兵營地 (Guard Barracks)</Dest>
+    </String>
+    <String List="0">
+      <Source>Tel Mithryn</Source>
+      <Dest>泰爾密希臨 (Tel Mithryn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Black-Briar Manor</Source>
+      <Dest>黑荊棘莊園 (Black-Briar Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Falion's House</Source>
+      <Dest>法利昂的房子 (Falion's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Angarvunde Catacombs</Source>
+      <Dest>安枷墳地下墓穴 (Angarvunde Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Gilfre's House</Source>
+      <Dest>吉福雷的房子 (Gilfre's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Orotheim</Source>
+      <Dest>奧瑟姆 (Orotheim)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mehrunes Dagon Voice Cell</Source>
+      <Dest>Mehrunes Dagon Voice Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>Northwind Mine</Source>
+      <Dest>北風礦場 (Northwind Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzinchaleft Depths</Source>
+      <Dest>姆津查夫特深處 (Mzinchaleft Depths)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Fellhammer Mines</Source>
+      <Dest>鑄錘據點礦場 (Fort Fellhammer Mines)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mauhulakh's Longhouse</Source>
+      <Dest>莫胡拉克的長屋 (Mauhulakh's Longhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Horgeir's House</Source>
+      <Dest>霍格的房子 (Horgeir's House)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dreamworld</Source>
+      <Dest>夢想世界 (Dreamworld)</Dest>
+    </String>
+    <String List="0">
+      <Source>Raven Rock Mine</Source>
+      <Dest>烏石鎮礦場 (Raven Rock Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Heimskr's House</Source>
+      <Dest>海姆斯科的房子 (Heimskr's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Reachwater Rock</Source>
+      <Dest>觸水岩 (Reachwater Rock)</Dest>
+    </String>
+    <String List="0">
+      <Source>Folgunthur</Source>
+      <Dest>佛古恩瑟 (Folgunthur)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Hoarfrost Grotto</Source>
+      <Dest>白霜石窟 (Hoarfrost Grotto)</Dest>
+    </String>
+    <String List="0">
+      <Source>The White Phial</Source>
+      <Dest>雪瓶 (The White Phial)</Dest>
+    </String>
+    <String List="0">
+      <Source>Raldbthar</Source>
+      <Dest>拉德巴伐 (Raldbthar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Tolvald's Gap</Source>
+      <Dest>托沃德裂隙 (Tolvald's Gap)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Treasury House</Source>
+      <Dest>珍寶屋 (The Treasury House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shrine of Talos</Source>
+      <Dest>塔洛斯聖壇 (Shrine of Talos)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bthardamz Upper District</Source>
+      <Dest>巴伐丹茲上層區 (Bthardamz Upper District)</Dest>
+    </String>
+    <String List="0">
+      <Source>Morwen's House</Source>
+      <Dest>默玟的房子 (Morwen's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Avanchnzel Boilery</Source>
+      <Dest>阿旺晨澤爾蒸氣管線區 (Avanchnzel Boilery)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fahlbtharz Grand Hall</Source>
+      <Dest>法巴伐茲大廳區 (Fahlbtharz Grand Hall)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Master Package ML</Source>
+      <Dest>倉庫大師包裹原料單 (Warehouse Master Package ML)</Dest>
+    </String>
+    <String List="0">
+      <Source>Goldenrock Mine</Source>
+      <Dest>金岩礦場 (Goldenrock Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ienth Farm</Source>
+      <Dest>艾恩斯農場 (Ienth Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pumping Station</Source>
+      <Dest>泵水站 (Pumping Station)</Dest>
+    </String>
+    <String List="0">
+      <Source>Brunwulf Free-Winter's House</Source>
+      <Dest>布倫武夫‧逸冬的房子 (Brunwulf Free-Winter's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Helgen Keep</Source>
+      <Dest>聖地鎮要塞 (Helgen Keep)</Dest>
+    </String>
+    <String List="0">
+      <Source>House of Clan Battle-Born</Source>
+      <Dest>戰狂氏族的房子 (House of Clan Battle-Born)</Dest>
+    </String>
+    <String List="0">
+      <Source>Darklight Tower</Source>
+      <Dest>黑光塔樓 (Darklight Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Glenmoril Coven</Source>
+      <Dest>格侖摩利女巫群落 (Glenmoril Coven)</Dest>
+    </String>
+    <String List="0">
+      <Source>High Gate Ruins</Source>
+      <Dest>高門遺址 (High Gate Ruins)</Dest>
+    </String>
+    <String List="0">
+      <Source>Haemar's Shame</Source>
+      <Dest>海瑪之羞 (Haemar's Shame)</Dest>
+    </String>
+    <String List="0">
+      <Source>Riften Fishery</Source>
+      <Dest>裂谷城漁場 (Riften Fishery)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ysolda's House</Source>
+      <Dest>伊索爾達的房子 (Ysolda's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Understone Keep</Source>
+      <Dest>石下要塞 (Understone Keep)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Map Markers</Source>
+      <Dest>倉庫地圖示記 (Warehouse Map Markers)</Dest>
+    </String>
+    <String List="0">
+      <Source>Marker Storage Unit</Source>
+      <Dest>Marker Storage Unit</Dest>
+    </String>
+    <String List="0">
+      <Source>Morthal Jail</Source>
+      <Dest>墨索爾城監獄 (Morthal Jail)</Dest>
+    </String>
+    <String List="0">
+      <Source>House Gray-Mane</Source>
+      <Dest>灰鬃氏族的房子 (House Gray-Mane)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ogmund's House</Source>
+      <Dest>奧格蒙德的房子 (Ogmund's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Gloomreach Cavern</Source>
+      <Dest>陰鬱河段洞窟 (Gloomreach Cavern)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Dunstad Prison</Source>
+      <Dest>丹斯塔德堡壘監獄 (Fort Dunstad Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Septimus Signus's Outpost</Source>
+      <Dest>賽普汀默斯‧希格諾斯的邊陲駐地 (Septimus Signus's Outpost)</Dest>
+    </String>
+    <String List="0">
+      <Source>Honeystrand Cave</Source>
+      <Dest>蜂蜜灘洞穴 (Honeystrand Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Midden</Source>
+      <Dest>廢棄物運送通路 (The Midden)</Dest>
+    </String>
+    <String List="0">
+      <Source>Belethor's General Goods</Source>
+      <Dest>貝萊托爾雜貨鋪 (Belethor's General Goods)</Dest>
+    </String>
+    <String List="0">
+      <Source>Whiterun Stables</Source>
+      <Dest>白漫馬廄 (Whiterun Stables)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor</Source>
+      <Dest>湖景林居 (Lakeview Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Steepfall Burrow</Source>
+      <Dest>墜崖洞穴 (Steepfall Burrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hag Rock Redoubt Ruin</Source>
+      <Dest>鬼婆岩石據點遺跡 (Hag Rock Redoubt Ruin)</Dest>
+    </String>
+    <String List="0">
+      <Source>New Gnisis Cornerclub</Source>
+      <Dest>新格尼西斯街角吧 (New Gnisis Cornerclub)</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Stables</Source>
+      <Dest>獨孤城馬廄 (Solitude Stables)</Dest>
+    </String>
+    <String List="0">
+      <Source>Alvor and Sigrid's House</Source>
+      <Dest>阿爾沃和西格利的房子 (Alvor and Sigrid's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple of Xrib</Source>
+      <Dest>埃克斯利布神殿 (Temple of Xrib)</Dest>
+    </String>
+    <String List="0">
+      <Source>Irkngthand Arcanex</Source>
+      <Dest>厄肯薩德奧識研究區 (Irkngthand Arcanex)</Dest>
+    </String>
+    <String List="0">
+      <Source>Warehouse Master Package</Source>
+      <Dest>倉庫大師包裹 (Warehouse Master Package)</Dest>
+    </String>
+    <String List="0">
+      <Source>Largashbur Longhouse</Source>
+      <Dest>拉加施布爾長屋 (Largashbur Longhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Angarvunde</Source>
+      <Dest>安枷墳 (Angarvunde)</Dest>
+    </String>
+    <String List="0">
+      <Source>Whiterun Catacombs</Source>
+      <Dest>白漫城地下墓穴 (Whiterun Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostflow Abyss</Source>
+      <Dest>霜流深淵 (Frostflow Abyss)</Dest>
+    </String>
+    <String List="0">
+      <Source>Benkongerike Great Hall</Source>
+      <Dest>骨頭國度大廳 (Benkongerike Great Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Korvanjund Halls</Source>
+      <Dest>科萬瓊德大廳 (Korvanjund Halls)</Dest>
+    </String>
+    <String List="0">
+      <Source>Goldenglow Estate Basement</Source>
+      <Dest>金色光輝莊園地下室 (Goldenglow Estate Basement)</Dest>
+    </String>
+    <String List="0">
+      <Source>Graywinter Watch</Source>
+      <Dest>灰冬望台 (Graywinter Watch)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Greenwall Captain's Quarters</Source>
+      <Dest>青垣要塞隊長居住區 (Fort Greenwall Captain's Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Broken Tusk Mine</Source>
+      <Dest>碎牙礦場 (Broken Tusk Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bards College</Source>
+      <Dest>詩人學院 (Bards College)</Dest>
+    </String>
+    <String List="0">
+      <Source>Kraldar's House</Source>
+      <Dest>卡拉達的房子 (Kraldar's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ansilvund Burial Chambers</Source>
+      <Dest>安息墳墓室 (Ansilvund Burial Chambers)</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor Embassy, Dungeon</Source>
+      <Dest>梭默大使館地牢 (Thalmor Embassy, Dungeon)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchuand-Zel Quarters</Source>
+      <Dest>努楚安澤爾居住區 (Nchuand-Zel Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Vahlok's Tomb</Source>
+      <Dest>瓦羅科之墓 (Vahlok's Tomb)</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Lighthouse</Source>
+      <Dest>獨孤城燈塔 (Solitude Lighthouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Geirmund's Hall</Source>
+      <Dest>蓋爾蒙德大廳 (Geirmund's Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned Building</Source>
+      <Dest>遺棄的建築 (Abandoned Building)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hillgrund's Tomb</Source>
+      <Dest>潛山之墓 (Hillgrund's Tomb)</Dest>
+    </String>
+    <String List="0">
+      <Source>Enmon's House</Source>
+      <Dest>恩蒙的房子 (Enmon's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple of Kynareth</Source>
+      <Dest>凱娜瑞斯神殿 (Temple of Kynareth)</Dest>
+    </String>
+    <String List="0">
+      <Source>Reachwind Eyrie</Source>
+      <Dest>臨風鷹巢 (Reachwind Eyrie)</Dest>
+    </String>
+    <String List="0">
+      <Source>Caerellius House</Source>
+      <Dest>凱力尤司的房子 (Caerellius House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pinemoon Cave</Source>
+      <Dest>松月山洞 (Pinemoon Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Black-Briar Lodge</Source>
+      <Dest>黑荊棘別墅 (Black-Briar Lodge)</Dest>
+    </String>
+    <String List="0">
+      <Source>Silverdrift Lair</Source>
+      <Dest>銀流的巢穴 (Silverdrift Lair)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ustengrav</Source>
+      <Dest>炙燃墓 (Ustengrav)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Frozen Hearth Cellar</Source>
+      <Dest>凍爐旅店地下室 (The Frozen Hearth Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostfruit Inn</Source>
+      <Dest>霜果旅店 (Frostfruit Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Valthume Vestibule</Source>
+      <Dest>瓦爾圖梅前廳 (Valthume Vestibule)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bthardamz Workshop</Source>
+      <Dest>巴伐丹茲工坊區 (Bthardamz Workshop)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of Countenance</Source>
+      <Dest>成就學舍 (Hall of Countenance)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nepos's House</Source>
+      <Dest>內珀斯的房子 (Nepos's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Castle Dour Dungeon</Source>
+      <Dest>陰鬱堡地牢 (Castle Dour Dungeon)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Bookshelves</Source>
+      <Dest>倉庫書架 (Warehouse Bookshelves)</Dest>
+    </String>
+    <String List="0">
+      <Source>Halldir's Cairn</Source>
+      <Dest>霍迪爾石塚 (Halldir's Cairn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Grave Concoctions</Source>
+      <Dest>墳土調劑 (Grave Concoctions)</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardhouse</Source>
+      <Dest>禁閉室 (Guardhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Wulf Wild-Blood's House</Source>
+      <Dest>沃弗‧狂血的房子 (Wulf Wild-Blood's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dushnikh Mine</Source>
+      <Dest>杜什尼克礦場 (Dushnikh Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bleak Falls Temple</Source>
+      <Dest>荒瀑神殿 (Bleak Falls Temple)</Dest>
+    </String>
+    <String List="0">
+      <Source>White Ridge Sanctum</Source>
+      <Dest>白脊聖所 (White Ridge Sanctum)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Sungard Tower</Source>
+      <Dest>森加德堡壘 (Fort Sungard Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Halted Stream Camp</Source>
+      <Dest>靜溪營地 (Halted Stream Camp)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Frozen Hearth</Source>
+      <Dest>凍爐旅店 (The Frozen Hearth)</Dest>
+    </String>
+    <String List="0">
+      <Source>Skuldafn North Tower</Source>
+      <Dest>斯庫達芬北塔 (Skuldafn North Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor Embassy, Elenwen's Solar</Source>
+      <Dest>梭默大使館，艾倫雯之光 (Thalmor Embassy, Elenwen's Solar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Unowned Cell</Source>
+      <Dest>Unowned Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple of Mara</Source>
+      <Dest>瑪拉神殿 (Temple of Mara)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cronvangr Cave</Source>
+      <Dest>克隆萬格洞穴 (Cronvangr Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>House of Clan Cruel-Sea</Source>
+      <Dest>酷海氏族的房子 (House of Clan Cruel-Sea)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Torolf's Mill</Source>
+      <Dest>托羅爾夫鋸木廠 (Torolf's Mill)</Dest>
+    </String>
+    <String List="0">
+      <Source>White Ridge Barrow</Source>
+      <Dest>白脊古墳 (White Ridge Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sunderstone Gorge</Source>
+      <Dest>巖隙峽谷 (Sunderstone Gorge)</Dest>
+    </String>
+    <String List="0">
+      <Source>Faldar's Tooth</Source>
+      <Dest>法爾達之牙 (Faldar's Tooth)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fellstar Farm</Source>
+      <Dest>落星農場 (Fellstar Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bthardamz Dwelling</Source>
+      <Dest>巴伐丹茲居住區 (Bthardamz Dwelling)</Dest>
+    </String>
+    <String List="0">
+      <Source>Vilemyr Inn</Source>
+      <Dest>爛醉如泥旅店 (Vilemyr Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Yngvild</Source>
+      <Dest>鷹維爾德石塚 (Yngvild)</Dest>
+    </String>
+    <String List="0">
+      <Source>Warmaiden's</Source>
+      <Dest>戰少女 (Warmaiden's)</Dest>
+    </String>
+    <String List="0">
+      <Source>Tel Mithryn Apothecary</Source>
+      <Dest>泰爾密希臨藥劑室 (Tel Mithryn Apothecary)</Dest>
+    </String>
+    <String List="0">
+      <Source>Brittleshin Pass</Source>
+      <Dest>布萊特辛山隘 (Brittleshin Pass)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bromjunaar Sanctuary</Source>
+      <Dest>布羅姆瓊那聖所 (Bromjunaar Sanctuary)</Dest>
+    </String>
+    <String List="0">
+      <Source>Battle-Born Farm</Source>
+      <Dest>戰狂農場 (Battle-Born Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Bulwark</Source>
+      <Dest>布瓦克堡壘 (The Bulwark)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bryling's House</Source>
+      <Dest>白靈的房子 (Bryling's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Anga's Mill Common House</Source>
+      <Dest>天空磨坊平房 (Anga's Mill Common House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Raldbthar Deep Market</Source>
+      <Dest>拉德巴伐中央市場 (Raldbthar Deep Market)</Dest>
+    </String>
+    <String List="0">
+      <Source>Silent City Catacombs</Source>
+      <Dest>寂靜之城地下墓穴 (Silent City Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Stony Creek Cave</Source>
+      <Dest>石頭溪谷洞穴 (Stony Creek Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mauhulakh's Cellar</Source>
+      <Dest>莫胡拉克地下室 (Mauhulakh's Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor</Source>
+      <Dest>風臨館 (Windstad Manor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Labyrinthian</Source>
+      <Dest>迷之城 (Labyrinthian)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchuand-Zel Control</Source>
+      <Dest>努楚安澤爾控制區 (Nchuand-Zel Control)</Dest>
+    </String>
+    <String List="0">
+      <Source>Duskglow Crevice</Source>
+      <Dest>灰光裂縫 (Duskglow Crevice)</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor Headquarters</Source>
+      <Dest>梭默司令部 (Thalmor Headquarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shalidor's Maze</Source>
+      <Dest>沙利多迷宮 (Shalidor's Maze)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sightless Pit</Source>
+      <Dest>盲坑 (Sightless Pit)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nightgate Inn Cellar</Source>
+      <Dest>夜扉旅店地下室 (Nightgate Inn Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnvald Crypts</Source>
+      <Dest>拉根沃德地穴 (Ragnvald Crypts)</Dest>
+    </String>
+    <String List="0">
+      <Source>Altar of Thrond Cave</Source>
+      <Dest>索翁德祭壇洞穴 (Altar of Thrond Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Silent Moons Camp</Source>
+      <Dest>靜月營地 (Silent Moons Camp)</Dest>
+    </String>
+    <String List="0">
+      <Source>Castle Karstaag Caverns</Source>
+      <Dest>卡斯塔城堡洞窟 (Castle Karstaag Caverns)</Dest>
+    </String>
+    <String List="0">
+      <Source>Morvunskar</Source>
+      <Dest>莫萬斯卡 (Morvunskar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hjerim</Source>
+      <Dest>霜齋 (Hjerim)</Dest>
+    </String>
+    <String List="0">
+      <Source>Honningbrew Meadery</Source>
+      <Dest>蜜之釀酒莊 (Honningbrew Meadery)</Dest>
+    </String>
+    <String List="0">
+      <Source>Quick Test Cell</Source>
+      <Dest>Quick Test Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>Filnjar's House</Source>
+      <Dest>菲林亞的房子 (Filnjar's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon Bridge Lumber Camp</Source>
+      <Dest>龍橋鎮伐木營地 (Dragon Bridge Lumber Camp)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shimmermist Grotto</Source>
+      <Dest>光霧石窟 (Shimmermist Grotto)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nightingale Hall</Source>
+      <Dest>夜鶯大廳 (Nightingale Hall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Deepwood Redoubt</Source>
+      <Dest>深木據點 (Deepwood Redoubt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Morvayn Manor Chambers</Source>
+      <Dest>莫爾凡宅邸客廳 (Morvayn Manor Chambers)</Dest>
+    </String>
+    <String List="0">
+      <Source>Jorgen and Lami's House</Source>
+      <Dest>喬爾根和拉米的房子 (Jorgen and Lami's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostflow Lighthouse</Source>
+      <Dest>霜流燈塔 (Frostflow Lighthouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Belyn Hlaalu's House</Source>
+      <Dest>貝林‧赫拉魯的房子 (Belyn Hlaalu's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Labyrinthian Thoroughfare</Source>
+      <Dest>迷之城大道 (Labyrinthian Thoroughfare)</Dest>
+    </String>
+    <String List="0">
+      <Source>Palace of the Kings</Source>
+      <Dest>眾王之殿 (Palace of the Kings)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Mortar and Pestle</Source>
+      <Dest>砂漿和杵 (The Mortar and Pestle)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Retching Netch</Source>
+      <Dest>嘔吐浮蜇 (The Retching Netch)</Dest>
+    </String>
+    <String List="0">
+      <Source>Rustleif's House</Source>
+      <Dest>魯斯特雷夫的房子 (Rustleif's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Volskygge Passages</Source>
+      <Dest>戰爭暗影通道 (Volskygge Passages)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sanuarach Mine</Source>
+      <Dest>索蘭那馳礦場 (Sanuarach Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nightcaller Temple</Source>
+      <Dest>喚夜神殿 (Nightcaller Temple)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shroud Hearth Depths</Source>
+      <Dest>覆爐古墳深處 (Shroud Hearth Depths)</Dest>
+    </String>
+    <String List="0">
+      <Source>Goldenglow Estate</Source>
+      <Dest>金色光輝莊園 (Goldenglow Estate)</Dest>
+    </String>
+    <String List="0">
+      <Source>Nightgate Inn</Source>
+      <Dest>夜扉旅店 (Nightgate Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Evette San's House</Source>
+      <Dest>愛芙緹‧桑的房子 (Evette San's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Irgnir's House</Source>
+      <Dest>伊格涅爾的房子 (Irgnir's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Arcanaeum</Source>
+      <Dest>秘藏館 (The Arcanaeum)</Dest>
+    </String>
+    <String List="0">
+      <Source>Gloomreach Hive</Source>
+      <Dest>陰鬱河段蜂房 (Gloomreach Hive)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mor Khazgur Cellar</Source>
+      <Dest>莫‧卡茲古爾地下室 (Mor Khazgur Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Winking Skeever</Source>
+      <Dest>眨眼雪鼠 (The Winking Skeever)</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple of the Divines</Source>
+      <Dest>聖靈神殿 (Temple of the Divines)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Greenwall Prison</Source>
+      <Dest>青垣要塞監獄 (Fort Greenwall Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Castle Dour, Tower</Source>
+      <Dest>陰鬱堡塔樓 (Castle Dour, Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Reeking Cave</Source>
+      <Dest>惡臭洞穴 (Reeking Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lylvieve Family's House</Source>
+      <Dest>李維弗斯家的房子 (Lylvieve Family's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Aeri's House</Source>
+      <Dest>艾瑞的房子 (Aeri's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Potema's Catacombs</Source>
+      <Dest>波特瑪地下墓穴 (Potema's Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Calcelmo's Tower</Source>
+      <Dest>卡塞莫的塔樓 (Calcelmo's Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Reachcliff Cave</Source>
+      <Dest>延崖洞穴 (Reachcliff Cave)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Prefabs</Source>
+      <Dest>倉庫活動房 (Warehouse Prefabs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Silus Vesuius's House</Source>
+      <Dest>希魯斯‧瓦休斯的房子 (Silus Vesuius's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hob's Fall Cave</Source>
+      <Dest>哈布跌落處洞穴 (Hob's Fall Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Erikur's House</Source>
+      <Dest>艾瑞庫爾的房子 (Erikur's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Birna's Oddments</Source>
+      <Dest>比爾娜的雜貨店 (Birna's Oddments)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Sungard Oubliette</Source>
+      <Dest>森加德堡壘地牢 (Fort Sungard Oubliette)</Dest>
+    </String>
+    <String List="0">
+      <Source>Valthume</Source>
+      <Dest>瓦爾圖梅 (Valthume)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Lost Man's Reprieve</Source>
+      <Dest>迷失者的緩刑令 (The Lost Man's Reprieve)</Dest>
+    </String>
+    <String List="0">
+      <Source>Tolvald's Cave</Source>
+      <Dest>托沃德洞穴 (Tolvald's Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bristleback Cave</Source>
+      <Dest>鬃背洞穴 (Bristleback Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Greathall</Source>
+      <Dest>大廳 (Greathall)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bruca's Leap Redoubt</Source>
+      <Dest>布蘭卡跳躍據點 (Bruca's Leap Redoubt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Quicksilver Mine</Source>
+      <Dest>軟銀礦場 (Quicksilver Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bard Holding Cell</Source>
+      <Dest>詩人牢房 (Bard Holding Cell)</Dest>
+    </String>
+    <String List="0">
+      <Source>Whistling Mine</Source>
+      <Dest>笛聲礦場 (Whistling Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>Uttering Hills Cave</Source>
+      <Dest>出言山洞穴 (Uttering Hills Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Volunruud</Source>
+      <Dest>沃倫魯德 (Volunruud)</Dest>
+    </String>
+    <String List="0">
+      <Source>Obscured Passage</Source>
+      <Dest>隱沒的通道 (Obscured Passage)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bthardamz Study</Source>
+      <Dest>巴伐丹茲學習區 (Bthardamz Study)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Temple of Miraak</Source>
+      <Dest>米拉克神殿 (Temple of Miraak)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragonsreach</Source>
+      <Dest>龍臨殿 (Dragonsreach)</Dest>
+    </String>
+    <String List="0">
+      <Source>Thonnir's House</Source>
+      <Dest>東尼爾的房子 (Thonnir's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Dawnguard</Source>
+      <Dest>黎明守衛堡壘 (Fort Dawnguard)</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth Ruins</Source>
+      <Dest>馬卡斯城遺址 (Markarth Ruins)</Dest>
+    </String>
+    <String List="0">
+      <Source>Riften Stables</Source>
+      <Dest>裂谷城馬廄 (Riften Stables)</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Warehouse Carry</Source>
+      <Dest>倉庫運載 (Warehouse Carry)</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned Prison</Source>
+      <Dest>廢棄監獄 (Abandoned Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hrothmund's Barrow</Source>
+      <Dest>洛司蒙德之塚 (Hrothmund's Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Warehouse</Source>
+      <Dest>倉庫 (Warehouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Haemar's Cavern</Source>
+      <Dest>海瑪洞窟 (Haemar's Cavern)</Dest>
+    </String>
+    <String List="0">
+      <Source>Four Shields Tavern</Source>
+      <Dest>四盾牌酒館 (Four Shields Tavern)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ansilvund Excavation</Source>
+      <Dest>安息墳洞穴 (Ansilvund Excavation)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bonechill Passage</Source>
+      <Dest>寒骨通道 (Bonechill Passage)</Dest>
+    </String>
+    <String List="0">
+      <Source>Twilight Sepulcher Inner Sanctum</Source>
+      <Dest>暮光靈廟至聖所 (Twilight Sepulcher Inner Sanctum)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Icerunner</Source>
+      <Dest>冰馳號 (The Icerunner)</Dest>
+    </String>
+    <String List="0">
+      <Source>Larak's Longhouse</Source>
+      <Dest>拉拉克的長屋 (Larak's Longhouse)</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned House</Source>
+      <Dest>廢棄房屋 (Abandoned House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of Valor</Source>
+      <Dest>勇氣大廳 (Hall of Valor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Do Not Delete - Not A Test Cell</Source>
+      <Dest>Do Not Delete - Not A Test Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>Greenwall Cave</Source>
+      <Dest>綠牆洞穴 (Greenwall Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bleak Falls Barrow</Source>
+      <Dest>荒瀑古墳 (Bleak Falls Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bolli's House</Source>
+      <Dest>波利的房子 (Bolli's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Endon's House</Source>
+      <Dest>安東的房子 (Endon's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Beitild's House</Source>
+      <Dest>貝媞尤德的房子 (Beitild's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dustman's Crypt</Source>
+      <Dest>清道夫地穴 (Dustman's Crypt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Saarthal</Source>
+      <Dest>薩瑟爾城 (Saarthal)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Ratway Vaults</Source>
+      <Dest>鼠道地下通路 (The Ratway Vaults)</Dest>
+    </String>
+    <String List="0">
+      <Source>War Quarters</Source>
+      <Dest>戰區 (War Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Blind Cliff Bastion</Source>
+      <Dest>盲崖堡壘 (Blind Cliff Bastion)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sven and Hilde's House</Source>
+      <Dest>斯萬與希爾德的房子 (Sven and Hilde's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnstar Barracks</Source>
+      <Dest>晨星城營地 (Dawnstar Barracks)</Dest>
+    </String>
+    <String List="0">
+      <Source>Snow Veil Catacombs</Source>
+      <Dest>雪幔地下墓穴 (Snow Veil Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Miner's House</Source>
+      <Dest>礦工宿舍 (Miner's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Snowhawk</Source>
+      <Dest>雪鷹堡壘 (Fort Snowhawk)</Dest>
+    </String>
+    <String List="0">
+      <Source>Editor Smoke Test Cell</Source>
+      <Dest>Editor Smoke Test Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>White River Watch</Source>
+      <Dest>白河眺哨 (White River Watch)</Dest>
+    </String>
+    <String List="0">
+      <Source>Broken Helm Hollow</Source>
+      <Dest>裂盔山窟 (Broken Helm Hollow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Braidwood Inn</Source>
+      <Dest>辮枝旅店 (Braidwood Inn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hollyfrost Farm</Source>
+      <Dest>冬青霜農場 (Hollyfrost Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sea Cave</Source>
+      <Dest>海之洞穴 (Sea Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Pinewatch</Source>
+      <Dest>松木哨站 (Pinewatch)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fahlbtharz</Source>
+      <Dest>法巴伐茲 (Fahlbtharz)</Dest>
+    </String>
+    <String List="0">
+      <Source>Bleakcoast Cave</Source>
+      <Dest>陰冷海岸洞穴 (Bleakcoast Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sadri's Used Wares</Source>
+      <Dest>薩德里的舊貨店 (Sadri's Used Wares)</Dest>
+    </String>
+    <String List="0">
+      <Source>Skuldafn South Tower</Source>
+      <Dest>斯庫達芬南塔 (Skuldafn South Tower)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lost Knife Cave</Source>
+      <Dest>失落匕首洞穴 (Lost Knife Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Yngol Barrow</Source>
+      <Dest>英格爾塚 (Yngol Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnvald Temple</Source>
+      <Dest>拉根沃德神殿 (Ragnvald Temple)</Dest>
+    </String>
+    <String List="0">
+      <Source>Gray Pine Goods</Source>
+      <Dest>灰松木雜貨店 (Gray Pine Goods)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Frostmoth</Source>
+      <Dest>霜蛾堡壘 (Fort Frostmoth)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ustengrav Depths</Source>
+      <Dest>炙燃墓深處 (Ustengrav Depths)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ravenscar Hollow</Source>
+      <Dest>鴉痕海穴 (Ravenscar Hollow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth Stables</Source>
+      <Dest>馬卡斯城馬廄 (Markarth Stables)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lod's House</Source>
+      <Dest>羅德的房子 (Lod's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall, Cellar</Source>
+      <Dest>勇士塹山莊地下室 (Heljarchen Hall, Cellar)</Dest>
+    </String>
+    <String List="0">
+      <Source>Kilkreath Catacombs</Source>
+      <Dest>基爾克瑞斯地下墓穴 (Kilkreath Catacombs)</Dest>
+    </String>
+    <String List="0">
+      <Source>Druadach Redoubt Cave</Source>
+      <Dest>逐達奇據點洞穴 (Druadach Redoubt Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Loreius Farm</Source>
+      <Dest>羅瑞尤斯農場 (Loreius Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Riverwood Trader</Source>
+      <Dest>溪木鎮貿易商行 (Riverwood Trader)</Dest>
+    </String>
+    <String List="0">
+      <Source>Merryfair Farm</Source>
+      <Dest>梅瑞菲爾農場 (Merryfair Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Bee and Barb</Source>
+      <Dest>蜂與鉤 (The Bee and Barb)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Hraggstad Prison</Source>
+      <Dest>哈格斯塔德堡壘 (Fort Hraggstad Prison)</Dest>
+    </String>
+    <String List="0">
+      <Source>Snow-Shod Farm</Source>
+      <Dest>雪蹄農場 (Snow-Shod Farm)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mor Khazgur Mine</Source>
+      <Dest>莫‧卡茲古爾礦場 (Mor Khazgur Mine)</Dest>
+    </String>
+    <String List="0">
+      <Source>The Chill</Source>
+      <Dest>寒栗監獄 (The Chill)</Dest>
+    </String>
+    <String List="0">
+      <Source>Rebel's Cairn</Source>
+      <Dest>叛亂石塚 (Rebel's Cairn)</Dest>
+    </String>
+    <String List="0">
+      <Source>Carlotta Valentia's House</Source>
+      <Dest>卡蘿塔‧巴倫西亞的房子 (Carlotta Valentia's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Kolbjorn Barrow</Source>
+      <Dest>寇泊瓊石塚 (Kolbjorn Barrow)</Dest>
+    </String>
+    <String List="0">
+      <Source>Arch-Mage's Quarters</Source>
+      <Dest>首席法師居住區 (Arch-Mage's Quarters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cragslane Cavern</Source>
+      <Dest>斯萊恩峭壁洞窟 (Cragslane Cavern)</Dest>
+    </String>
+    <String List="0">
+      <Source>Aretino Residence</Source>
+      <Dest>艾瑞提諾宅邸 (Aretino Residence)</Dest>
+    </String>
+    <String List="0">
+      <Source>Valindor's House</Source>
+      <Dest>瓦林多的房子 (Valindor's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Breezehome</Source>
+      <Dest>微風閣 (Breezehome)</Dest>
+    </String>
+    <String List="0">
+      <Source>Gallows Rock</Source>
+      <Dest>絞架岩 (Gallows Rock)</Dest>
+    </String>
+    <String List="0">
+      <Source>Glover Mallory's House</Source>
+      <Dest>葛羅文‧馬爾洛里的房子 (Glover Mallory's House)</Dest>
+    </String>
+    <String List="0">
+      <Source>Folgunthur Crypt</Source>
+      <Dest>佛古恩瑟地穴 (Folgunthur Crypt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Forelhost Crypt</Source>
+      <Dest>佛若豪斯地穴 (Forelhost Crypt)</Dest>
+    </String>
+    <String List="0">
+      <Source>Glacial Cave</Source>
+      <Dest>冰川洞穴 (Glacial Cave)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fahlbtharz Corridor</Source>
+      <Dest>法巴伐茲迴廊 (Fahlbtharz Corridor)</Dest>
+    </String>
+    <String List="0">
+      <Source>Kilkreath Temple</Source>
+      <Dest>基爾克瑞斯神廟 (Kilkreath Temple)</Dest>
+    </String>
+    <String List="0">
+      <Source>Embershard Mine</Source>
+      <Dest>燼屑礦場 (Embershard Mine)</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
